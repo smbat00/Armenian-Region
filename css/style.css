@@ -1,0 +1,71 @@
+.area{
+    position: relative;
+    margin-top: -150px;
+    
+}
+.selestorarea{
+    z-index: 102;
+    position: relative;
+}
+.infoArea{
+    height: 350px;
+    width: 350px;
+/*    border: 1px solid;*/
+    position: absolute;
+    left: 600px;
+}
+.infoArea h1{
+    text-align: center;
+}
+.area img{
+    position: absolute;
+}
+
+.Lori{
+    top: 20px;
+    left: 108px;
+}
+.Shirak{
+     top: 48px;
+    left: 10px;
+}
+.Tavush{
+     top: 20px;
+    left: 209px;
+}
+.Aragacotn{
+    top: 116px;
+    left: 50px;;
+}
+.Kotayk{
+    top: 133px;
+    left: 145px;
+}
+.Gexarquniq{
+    top: 150px;
+    left: 245px;
+}
+.Armavir{
+    top: 180px;
+    left: 41px;
+}
+.Yerevan{
+    top: 76px;
+    left: 15px;;
+    height: 700px;
+}
+.Ararat{
+     top: 226px;
+    left: 144px;
+}
+.Vaioc_Dzor{
+    top: 253px;
+    left: 258px;
+}
+.Siuniq {
+    top: 318px;
+    left: 369px;
+}
+.r8d{
+    z-index: 2;
+}
